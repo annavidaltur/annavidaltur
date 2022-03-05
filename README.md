@@ -6,20 +6,16 @@
   Lenguajes de programación
 </h3> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annavidaltur&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annavidaltur)](https://github.com/annavidaltur/github-readme-stats)
-
-<!--
-### Github Stats:
-
+#### Github Stats
+![Anurag's GitHub stats]()
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annavidalturo&theme=radical&card_width=450em)](https://github.com/annavidalturo/annavidalturo/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=annavidalturo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+    <td valign="middle"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annavidaltur&theme=radical&card_width=450em)](https://github.com/veroMoreno/veroMoreno/github-readme-stats"/></td>
+    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annavidaltur)](https://github.com/annavidaltur/github-readme-stats)</td>
   </tr>
+
+
 </table>
 
-
-#### 🎧 I love music! | Spotify Playing
-[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />]()
--->
+#### 🎧 Estoy escuchando...
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=abelarda666&cover_image=true&theme=natemoo-re&bar_color=3f803c&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
