@@ -12,14 +12,14 @@
  <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/TailwindCSS-F3F3F3?style=for-the-badge&logo=tailwindcss&logoColor=07b6d5">
 
 ### Software skills
+<img src="https://img.shields.io/badge/linux-185886?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/CENTOS-black?style=for-the-badge&logo=centos&logoColor=white"> <img src="https://img.shields.io/badge/git-F1502F?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/photoshop-3b3b6d?style=for-the-badge&logo=adobe&logoColor=white">
 
+#### I have also worked with
+Python, R, Java, Crystal Reports
 
-### I have also worked with
-Python R Crystal Reports Java
-
-#### Github Stats
+### Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annavidaltur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-#### 🎧 I'm listening to...
+### 🎧 I'm listening to...
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=abelarda666&cover_image=true&theme=natemoo-re&bar_color=3f803c&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
