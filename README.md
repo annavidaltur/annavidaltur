@@ -1,7 +1,7 @@
 <h2>Hi, I'm Anna!</h2>
-<h3>Full stack developer from Valencia, Spain </h3>
+<h3>Backend developer from Valencia, Spain </h3>
 
-:briefcase: Currently working as full stack in <a href="https://www.bsg.es">BSG Ingenieros</a>
+:briefcase: Currently working as back developer in <a href="https://seaport-solutions.com/">SEAPort Solutions</a>
 <br>:mortar_board: I have studied a <a href="http://www.etsid.upv.es/alumnos/grados/ingenieria-electronica/" target="_blank">Degree in Industrial Electronics and Automation</a>, and when I discovered my passion for computing I did a <a href="http://mugi.webs.upv.es/" target="_blank">Master's Degree in Information Management</a>
 
 ### Backend
